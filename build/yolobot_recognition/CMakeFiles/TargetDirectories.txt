@@ -1,0 +1,9 @@
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/uninstall.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/yolobot_recognition_uninstall.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/test.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/edit_cache.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/rebuild_cache.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/list_install_components.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/install.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/install/local.dir
+/home/robotics23/dev_ws/src/thymio_discover_USI/build/yolobot_recognition/CMakeFiles/install/strip.dir
